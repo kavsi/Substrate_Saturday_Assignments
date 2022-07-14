@@ -1,0 +1,12 @@
+//Tuple problem solution
+fn main() {
+    let (x, y, z);
+
+    (y, z, x) = (1, 2, 3);   // blank is filled with (y,z,x)
+    
+    assert_eq!(x, 3);
+    assert_eq!(y, 1);
+    assert_eq!(z, 2);
+
+    println!("Success!");
+}
