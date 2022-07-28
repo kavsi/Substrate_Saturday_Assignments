@@ -1,0 +1,3 @@
+// Package problem solution
+
+cargo new hello-package

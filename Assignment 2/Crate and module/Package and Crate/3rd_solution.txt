@@ -1,0 +1,8 @@
+// Package problem solution
+
+in package 1#:
+hello-package has a binary crate named hello-package, src/main.rs is the crate root.
+
+in package 2#:
+hello-pacakge1 has a library crate named hello-package1, src/lib.rs is the crate root.
+

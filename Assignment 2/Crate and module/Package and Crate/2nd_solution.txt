@@ -1,0 +1,4 @@
+// Package problem solution
+
+cargo new --lib hello-package1
+
